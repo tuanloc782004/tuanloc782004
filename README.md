@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuan Loc</h1>
-<h3 align="center">A Java backend developer from Viet Nam</h3>
+<h3 align="center">A Java Backend Developer from Viet Nam</h3>
 
 - 📫 How to reach me **tuanloc782004@gmail.com**
 
